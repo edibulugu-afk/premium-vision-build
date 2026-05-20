@@ -76,14 +76,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "TrainiQ — soluții premium de tâmplărie PVC și aluminiu pentru locuințe, proiecte comerciale și construcții modulare. Cere ofertă: 0728 232 176.",
+          "TrainiQ — soluții premium de tâmplărie PVC și Aluminiu pentru locuințe, proiecte comerciale și construcții modulare. Cere ofertă: 0728 232 176.",
       },
       { name: "author", content: "TrainiQ" },
       { property: "og:title", content: "TrainiQ — Ferestre și Uși Premium" },
       {
         property: "og:description",
         content:
-          "Tâmplărie PVC și aluminiu, sisteme glisante și soluții pentru construcții modulare. Eficiență energetică, montaj profesional, garanție inclusă.",
+          "Tâmplărie PVC și Aluminiu, sisteme glisante și soluții pentru construcții modulare. Eficiență energetică, montaj profesional, garanție inclusă.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

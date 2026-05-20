@@ -62,7 +62,7 @@ const services = [
   { icon: Home, title: "Ferestre PVC", img: pvcWindow, desc: "Sisteme cu 5–7 camere de izolare, geam tripan, eficiență energetică superioară.", benefits: ["Izolație termică", "Insonorizare", "Durabilitate 30+ ani"] },
   { icon: Building2, title: "Ferestre Aluminiu", img: aluWindow, desc: "Profile cu rupere de punte termică pentru fațade moderne și deschideri mari.", benefits: ["Rezistență superioară", "Design minimalist", "Profile slim"] },
   { icon: DoorOpen, title: "Uși PVC", img: pvcDoor, desc: "Uși de intrare PVC cu armătură de oțel și sisteme de siguranță multipoint.", benefits: ["Sisteme antiefracție", "Izolație premium", "Garnituri triple"] },
-  { icon: DoorOpen, title: "Uși Aluminiu", img: aluDoor, desc: "Uși de intrare din aluminiu, panouri rezistente, design contemporan.", benefits: ["Aspect arhitectural", "Rezistență mecanică", "Personalizare"] },
+  { icon: DoorOpen, title: "Uși Aluminiu", img: aluDoor, desc: "Uși de intrare din Aluminiu, panouri rezistente, design contemporan.", benefits: ["Aspect arhitectural", "Rezistență mecanică", "Personalizare"] },
   { icon: MoveHorizontal, title: "Sisteme Glisante", img: sliding, desc: "Glisante panoramice tip lift & slide pentru terase și deschideri mari.", benefits: ["Praguri minime", "Vedere panoramică", "Mecanism premium"] },
   { icon: Layers, title: "Pereți Cortină", img: curtain, desc: "Fațade vitrate pentru clădiri comerciale și proiecte arhitecturale ambițioase.", benefits: ["Structuri custom", "Performanță termică", "Calcul static"] },
   { icon: Boxes, title: "Tâmplărie pentru Module", img: modularImg, desc: "Soluții complete de ferestre și uși integrate în containere și case modulare.", benefits: ["Montaj rapid", "Integrare structurală", "Soluții pe măsură"] },
@@ -86,7 +86,7 @@ const projects = [
 ];
 
 const testimonials = [
-  { name: "Andrei P.", role: "Proprietar casă, Galați", text: "Echipa TrainiQ a livrat exact la termen. Ferestrele aluminiu arată impecabil, iar diferența de temperatură s-a simțit imediat." },
+  { name: "Andrei P.", role: "Proprietar casă, Galați", text: "Echipa TrainiQ a livrat exact la termen. Ferestrele Aluminiu arată impecabil, iar diferența de temperatură s-a simțit imediat." },
   { name: "Mihaela D.", role: "Arhitect, București", text: "Profesioniști în adevăratul sens. Au înțeles cerințele tehnice ale proiectului și ne-au propus soluții mai bune decât specificațiile inițiale." },
   { name: "Cristian V.", role: "Dezvoltator imobiliar", text: "Colaborare excelentă pe un proiect de 14 unități. Calitate constantă, comunicare clară, montaj rapid." },
 ];
@@ -135,7 +135,7 @@ function Hero() {
     <section className="relative min-h-[100svh] overflow-hidden bg-navy">
       <img
         src={heroImg}
-        alt="Ferestre aluminiu premium pe casă modernă"
+        alt="Ferestre Aluminiu premium pe casă modernă"
         className="absolute inset-0 h-full w-full object-cover"
       />
       <div className="absolute inset-0 bg-gradient-hero" />
@@ -238,7 +238,7 @@ function About() {
               Precizie tehnică,<br />estetică premium.
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-              Suntem o echipă cu experiență în tâmplărie PVC și aluminiu, dedicată proiectelor
+              Suntem o echipă cu experiență în tâmplărie PVC și Aluminiu, dedicată proiectelor
               rezidențiale, comerciale și modulare. Lucrăm cu profile europene de top și aplicăm
               standarde stricte de montaj — pentru că ferestrele bune se simt zilnic, ani la rând.
             </p>
@@ -436,7 +436,7 @@ function Modular() {
             </h2>
             <p className="mt-6 text-lg text-muted-foreground">
               Lucrăm direct cu producătorii de containere modulare, birouri mobile și case modulare —
-              inclusiv soluții pentru spații comerciale. Integrăm ferestre și uși PVC sau aluminiu,
+              inclusiv soluții pentru spații comerciale. Integrăm ferestre și uși PVC sau Aluminiu,
               cu finisaje și performanțe ce respectă standardele scandinave.
             </p>
             <div className="mt-8 grid gap-4 sm:grid-cols-2">
@@ -693,7 +693,7 @@ function Footer() {
               <span className="text-2xl font-bold text-white">trainiQ</span>
             </div>
             <p className="mt-4 text-sm leading-relaxed">
-              Ferestre și uși premium din PVC și aluminiu. Soluții pentru locuințe, proiecte comerciale și construcții modulare.
+              Ferestre și uși premium din PVC și Aluminiu. Soluții pentru locuințe, proiecte comerciale și construcții modulare.
             </p>
           </div>
           <div>
