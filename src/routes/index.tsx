@@ -102,7 +102,7 @@ const steps = [
 ];
 
 const faqs = [
-  { q: "În cât timp livrați și montați?", a: "Termenul standard este de 3–5 săptămâni de la confirmarea comenzii, în funcție de complexitate." },
+  { q: "În cât timp livrați și montați?", a: "Termenul standard este de 1–3 săptămâni pentru PVC și 3–5 săptămâni pentru Aluminiu, cu posibilitate de livrare expres în situații speciale." },
   { q: "Ce garanție oferiți?", a: "Oferim garanție extinsă: 5 ani pentru profile și feronerie, 2 ani pentru montaj." },
   { q: "Lucrați și cu firme de construcții modulare?", a: "Da. Avem expertiză specifică în integrarea tâmplăriei în containere și case modulare." },
   { q: "Oferta este gratuită?", a: "Da. Consultanța, măsurătorile și oferta tehnică sunt complet gratuite și fără obligații." },
