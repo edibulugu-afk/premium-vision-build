@@ -65,7 +65,7 @@ const services = [
   { icon: DoorOpen, title: "Uși Aluminiu", img: aluDoor, desc: "Uși de intrare din Aluminiu, panouri rezistente, design contemporan.", benefits: ["Aspect arhitectural", "Rezistență mecanică", "Personalizare"] },
   { icon: MoveHorizontal, title: "Sisteme Glisante", img: sliding, desc: "Glisante panoramice tip lift & slide pentru terase și deschideri mari.", benefits: ["Praguri minime", "Vedere panoramică", "Mecanism premium"] },
   { icon: Layers, title: "Pereți Cortină", img: curtain, desc: "Fațade vitrate pentru clădiri comerciale și proiecte arhitecturale ambițioase.", benefits: ["Structuri custom", "Performanță termică", "Calcul static"] },
-  { icon: Boxes, title: "Tâmplărie pentru Module", img: modularImg, desc: "Soluții complete de ferestre și uși integrate în containere și case modulare.", benefits: ["Montaj rapid", "Integrare structurală", "Soluții pe măsură"] },
+  { icon: Boxes, title: "Tâmplărie pentru Clădiri Modulare și Containere", img: modularImg, desc: "Soluții complete de ferestre și uși integrate în containere și case modulare.", benefits: ["Montaj rapid", "Integrare structurală", "Soluții pe măsură"] },
   { icon: Hammer, title: "Montaj și Mentenanță", img: p2, desc: "Echipă specializată cu montaj certificat și service post-instalare.", benefits: ["Garanție extinsă", "Service rapid", "Standarde europene"] },
 ];
 
